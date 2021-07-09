@@ -1,4 +1,5 @@
 GAMA-NO-GIT (HIRING CODERS - VTEX)
+<br>
 Git studies and challenge on Hiring Coders program.
 
 📋 Information
